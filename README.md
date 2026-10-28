@@ -1,6 +1,6 @@
 ### Привет, я RAVIK 👋
 
-Разработчик: Python, Kotlin, JavaScript. Собираю инструменты, которые убирают
+Разработчик: Python, Kotlin, JavaScript. Собираю инструменты, которые убирают 
 рутину — от разбора журналов до проверки настроек системы.
 
 **Сейчас в работе:** [security-scripts](https://github.com/Ravikjan/security-scripts) —

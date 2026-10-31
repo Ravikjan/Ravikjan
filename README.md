@@ -1,11 +1,21 @@
 ### Привет, я RAVIK 👋
 
-Разработчик: Python, Kotlin, JavaScript. Собираю инструменты, которые убирают 
-рутину — от разбора журналов до проверки настроек системы.
+Разработчик: Python, Kotlin, JavaScript. Делаю инструменты, которые убирают рутину —
+от разбора журналов до проверки настроек системы.
 
-**Сейчас в работе:** [security-scripts](https://github.com/Ravikjan/security-scripts) —
-анализ журналов аутентификации (поиск брутфорса), аудит базовых настроек Windows,
-извлечение индикаторов компрометации. Python и PowerShell, тесты, документация.
+![Подписчики](https://img.shields.io/github/followers/Ravikjan?style=for-the-badge&label=%D0%9F%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8&logo=github) ![Звёзды](https://img.shields.io/github/stars/Ravikjan?style=for-the-badge&label=%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D1%8B&logo=github) ![Репозитории](https://img.shields.io/github/repos/Ravikjan?style=for-the-badge&label=%D0%A0%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8&logo=github) ![Просмотры](https://komarev.com/ghpvc/?username=Ravikjan&style=for-the-badge&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B)
+
+---
+
+## 🚀 Сейчас работаю над
+
+**[security-scripts](https://github.com/Ravikjan/security-scripts)** — три инструмента для рутины ИБ:
+
+- поиск брутфорса в журналах sshd и в журнале безопасности Windows
+- аудит базовых настроек Windows: 18 проверок и оценка 0–100
+- извлечение индикаторов компрометации из текста
+
+![Бейдж](https://github.com/Ravikjan/security-scripts/actions/workflows/ci.yml/badge.svg) ![Бейдж](https://img.shields.io/github/v/release/Ravikjan/security-scripts?style=for-the-badge&label=%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7) ![Бейдж](https://img.shields.io/github/license/Ravikjan/security-scripts?style=for-the-badge&label=%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F) ![Бейдж](https://img.shields.io/github/last-commit/Ravikjan/security-scripts?style=for-the-badge&label=%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B8%D1%82) ![Бейдж](https://img.shields.io/github/commit-activity/y/Ravikjan/security-scripts?style=for-the-badge&label=%D0%9A%D0%BE%D0%BC%D0%BC%D0%B8%D1%82%D0%BE%D0%B2%20%D0%B7%D0%B0%20%D0%B3%D0%BE%D0%B4) ![Бейдж](https://img.shields.io/github/languages/top/Ravikjan/security-scripts?style=for-the-badge&label=%D0%AF%D0%B7%D1%8B%D0%BA)
 
 ---
 
@@ -13,36 +23,28 @@
 
 **Языки**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Бейдж](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54?style=for-the-badge&label=Python) ![Бейдж](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white?style=for-the-badge&label=Kotlin) ![Бейдж](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E?style=for-the-badge&label=JavaScript) ![Бейдж](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white?style=for-the-badge&label=HTML5) ![Бейдж](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white?style=for-the-badge&label=CSS3)
 
 **Базы данных**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Бейдж](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white?style=for-the-badge&label=MySQL) ![Бейдж](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white?style=for-the-badge&label=SQL%20Server)
 
-**Инструменты разработки** 
+**Инструменты**
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Бейдж](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white?style=for-the-badge&label=Git) ![Бейдж](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white?style=for-the-badge&label=GitHub) ![Бейдж](https://img.shields.io/badge/GitLab-181717?logo=gitlab&logoColor=white?style=for-the-badge&label=GitLab)
 
 ---
 
 ## 📌 Проекты
 
-| Проект | Описание |
-|---|---|
-| [**security-scripts**](https://github.com/Ravikjan/security-scripts) | Поиск брутфорса в журналах, аудит настроек Windows (18 проверок), извлечение индикаторов компрометации. Python + PowerShell, тесты, CI |
-| [**Ravikjan**](https://github.com/Ravikjan/Ravikjan) | Этот профиль |
+- **[security-scripts](https://github.com/Ravikjan/security-scripts)** — анализ журналов, аудит Windows, индикаторы компрометации. Python + PowerShell, 53 теста Python и 29 проверок PowerShell, CI, релиз v0.1.0
+- **[Ravikjan](https://github.com/Ravikjan/Ravikjan)** — этот профиль
+
+---
 
 ## 📊 Статистика
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Ravikjan&theme=neon&hide_border=false&count_private=true&show_icons=true)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikjan&theme=neon&hide_border=false&layout=compact&count_private=true)
+![Серия коммитов](https://streak-stats.demolab.com?user=Ravikjan&theme=neon&hide_border=true&locale=ru)
 
 ---
 
